@@ -22,8 +22,10 @@
 		"url": "https://github.com/wjn/cypress-learning/issues"
 	},
 	"homepage": "https://github.com/wjn/cypress-learning#readme",
-	"dependencies": {
+	"dependencies": {},
+	"devDependencies": {
 		"cypress": "^4.11.0",
+		"mocha": "^8.0.1",
 		"prettier": "^2.0.5"
 	}
 }

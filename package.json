@@ -1,0 +1,29 @@
+{
+	"name": "cypress-learning",
+	"version": "1.0.0",
+	"description": "Learning experiment for learning Cypress Test Automation",
+	"main": "index.js",
+	"scripts": {
+		"cy:open": "cypress open",
+		"cy:run": "cypress run"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/wjn/cypress-learning.git"
+	},
+	"keywords": [
+		"testing",
+		"cypress",
+		"automation"
+	],
+	"author": "Will Nielsen",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/wjn/cypress-learning/issues"
+	},
+	"homepage": "https://github.com/wjn/cypress-learning#readme",
+	"dependencies": {
+		"cypress": "^4.11.0",
+		"prettier": "^2.0.5"
+	}
+}
